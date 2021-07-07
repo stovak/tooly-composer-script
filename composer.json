@@ -1,5 +1,5 @@
 {
-  "name": "tm/tooly-composer-script",
+  "name": "stovak/tooly-composer-script",
   "description": "Simple composer script to manage phar files.",
   "keywords": [
     "composer",
